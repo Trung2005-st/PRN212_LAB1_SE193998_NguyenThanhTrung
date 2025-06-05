@@ -1,0 +1,4 @@
+D:\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\App.g.cs
+D:\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp_MarkupCompile.cache
+D:\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp_MarkupCompile.lref
